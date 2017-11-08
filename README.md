@@ -13,7 +13,7 @@ Slide [URL](https://speakerdeck.com/pjohnson/architecture-components)
 
 - **Android Custom Exception**  por Jose Cuentas
 
-Slide [URL]()
+Slide [URL](https://docs.google.com/presentation/d/1pm-VXXpk-EWpMyNU4uxm8LUMo2d1yP6bnNfKeXFlfTg/edit?usp=sharing)
 
 ## Organización 
 [Android Dev Perú](https://github.com/Android-Dev-Peru)
